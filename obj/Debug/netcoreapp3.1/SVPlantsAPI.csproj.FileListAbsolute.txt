@@ -19,3 +19,6 @@ C:\Users\kenpf\source\repos\SVPlantsAPI\obj\Debug\netcoreapp3.1\SVPlantsAPI.Razo
 C:\Users\kenpf\source\repos\SVPlantsAPI\obj\Debug\netcoreapp3.1\SVPlantsAPI.dll
 C:\Users\kenpf\source\repos\SVPlantsAPI\obj\Debug\netcoreapp3.1\SVPlantsAPI.pdb
 C:\Users\kenpf\source\repos\SVPlantsAPI\obj\Debug\netcoreapp3.1\SVPlantsAPI.genruntimeconfig.cache
+C:\Users\kenpf\source\repos\SVPlantsAPI\bin\Debug\netcoreapp3.1\Client\package-lock.json
+C:\Users\kenpf\source\repos\SVPlantsAPI\bin\Debug\netcoreapp3.1\Client\package.json
+C:\Users\kenpf\source\repos\SVPlantsAPI\bin\Debug\netcoreapp3.1\Client\public\manifest.json
